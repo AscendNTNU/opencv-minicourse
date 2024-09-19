@@ -3,6 +3,10 @@ Jeg har laget noen oppgaver som er tiltenkt å gi alle en mulighet til å bli li
 av bilder på en datamaskin, nyttige operasjoner på bilder og OpenCV.
 Jeg tenkte det var greit å gi i et format der man kan gjøre det litt etter behov og når man selv har tid.
 
+Relevant teori:
+- https://docs.opencv.org/4.9.0/d0/de3/tutorial_py_intro.html
+- https://ajcr.net/stride-guide-part-1/
+
 Alle oppgavene ligger i filen `tasks.py`. 
 Hver oppgave er en egen funksjon, med en forhåpentligvis beskrivende tekst for hva man skal gjøre.
 
