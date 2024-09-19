@@ -5,6 +5,7 @@ Jeg tenkte det var greit å gi i et format der man kan gjøre det litt etter beh
 
 Relevant teori:
 - https://docs.opencv.org/4.9.0/d0/de3/tutorial_py_intro.html
+- https://docs.opencv.org/4.9.0/d3/df2/tutorial_py_basic_ops.html
 - https://ajcr.net/stride-guide-part-1/
 
 Alle oppgavene ligger i filen `tasks.py`. 
