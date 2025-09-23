@@ -25,7 +25,7 @@ def task1():
 def task2():
     """
     OpenCV uses BGR coloring. 
-    However, the file images/jungle.jpg is saved as RGB! Can you display it normally?
+    However, the file images/ocean.jpg is saved as RGB! Can you display it normally?
     
     Useful OpenCV functions:
         - cvtColor
